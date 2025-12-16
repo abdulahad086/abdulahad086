@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @abdulahad086
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me email
+Certifications:
 
-<!---
-abdulahad086/abdulahad086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Harvard CS50x May 2023 – June 2023
+Web Development Bootcamp 2023
+Technical Skills: 
+
+Languages: C/C++, Python, JavaScript, React, SQL, R, Assembly Language, HTML/CSS
+Frameworks: Node.js, Express, Bootstrap, Next.js, TypeScript
+Developer Tools: Git, GitHub, VS Code, PyCharm
+Libraries: scikit-learn, Pandas, Seaborn, SFML, GTK, WebSocket
