@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:aahad8641@gmail.com"><img src="assets/btn-ticket.svg" alt="Open a ticket by email" width="250" /></a>
-<a href="https://www.linkedin.com/in/abdul-ahad-137a122b2"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="250" /></a>
-<a href="https://github.com/abdulahad086?tab=repositories"><img src="assets/btn-github.svg" alt="All repositories" width="250" /></a>
+<a href="https://abdul-ahad-qa.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="200" /></a>
+<a href="mailto:aahad8641@gmail.com"><img src="assets/btn-ticket.svg" alt="Open a ticket by email" width="200" /></a>
+<a href="https://www.linkedin.com/in/abdul-ahad-137a122b2"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="200" /></a>
+<a href="https://github.com/abdulahad086?tab=repositories"><img src="assets/btn-github.svg" alt="All repositories" width="200" /></a>
 </p>
 
 <p align="center">
