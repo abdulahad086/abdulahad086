@@ -26,10 +26,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/abdulahad086/Stack8s_QA_automation"><img src="assets/cart-stack8s.svg" alt="Stack8s QA" width="32%" /></a>
-<a href="https://github.com/abdulahad086/Findsocial_automation"><img src="assets/cart-findsocial.svg" alt="FindSocial" width="32%" /></a>
-<a href="https://github.com/abdulahad086/beolivia-automation"><img src="assets/cart-beolivia.svg" alt="Be Olivia" width="32%" /></a>
+<img src="assets/cart-findsocial.svg" alt="FindSocial" width="32%" />
+<img src="assets/cart-beolivia.svg" alt="Be Olivia" width="32%" />
 <br />
-<a href="https://github.com/abdulahad086/QA-Agent"><img src="assets/cart-qa-agent.svg" alt="QA Agent" width="32%" /></a>
+<img src="assets/cart-qa-agent.svg" alt="QA Agent" width="32%" />
 <img src="assets/cart-songplace.svg" alt="Songplace QA" width="32%" />
 </p>
 
@@ -49,11 +49,11 @@
 <img src="assets/tier-ui.svg" alt="ui" width="100%" />
 </p>
 <p align="center">
-<a href="https://github.com/abdulahad086/Songplace-Artist"><img src="assets/cart-sp-artist.svg" alt="Songplace Artist" width="32%" /></a>
-<a href="https://github.com/abdulahad086/songplace-curator-ui"><img src="assets/cart-sp-curator.svg" alt="Songplace Curator" width="32%" /></a>
-<a href="https://github.com/abdulahad086/songplace-landingpage-ui"><img src="assets/cart-sp-landing.svg" alt="Songplace Landing" width="32%" /></a>
+<img src="assets/cart-sp-artist.svg" alt="Songplace Artist" width="32%" />
+<img src="assets/cart-sp-curator.svg" alt="Songplace Curator" width="32%" />
+<img src="assets/cart-sp-landing.svg" alt="Songplace Landing" width="32%" />
 <br />
-<a href="https://github.com/abdulahad086/Find-Social-frontend"><img src="assets/cart-fs-ui.svg" alt="FindSocial UI" width="32%" /></a>
+<img src="assets/cart-fs-ui.svg" alt="FindSocial UI" width="32%" />
 </p>
 
 <p align="center">
